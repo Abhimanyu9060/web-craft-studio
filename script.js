@@ -9,7 +9,7 @@ const siteData = {
       type: "Client Website",
       description:
         "A simple business landing page with clear service sections, trust-focused design, and direct contact calls to action.",
-      url: "https://example.com/project-one",
+      url: "https://jeevtatva-five.vercel.app/",
       linkLabel: "View Project",
     },
     {
